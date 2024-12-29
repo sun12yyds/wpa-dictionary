@@ -1,4 +1,4 @@
-# wpa-dictionary
+# wpa
 
 Used for Wi-Fi password cracking | 用于 Wi-Fi 密码破解。
 
